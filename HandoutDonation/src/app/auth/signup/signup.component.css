@@ -1,0 +1,27 @@
+mat-form-field {
+  width: 80%;
+}
+
+mat-spinner {
+  margin: auto;
+}
+
+mat-card
+{
+  width : 65%;
+ margin-left: 17%;
+}
+button
+{
+width: 20%;
+align-content: center;
+text-align: center; 
+display: block;
+margin: 0 auto;
+height: 50px;
+}
+.py-4
+{
+  background-color: #098ea5;
+  color: white;
+}
